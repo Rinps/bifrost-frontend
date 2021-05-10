@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Neris";
+  src: url("./Neris/Neris-Black.otf");
+}
+
+@font-face {
+  font-family: "Neris";
+  font-style: italic;
+  src: url("./Neris/Neris-BlackItalic.otf");
+}
+
+@font-face {
+  font-family: "Neris";
+  font-style: bold italic;
+  src: url("./Neris/Neris-BoldItalic.otf");
+}
+
+@font-face {
+  font-family: "Neris";
+  font-style: bold;
+  src: url("./Neris/Neris-SemiBold.otf");
+}
+
+@font-face {
+  font-family: "Neris";
+  font-style: light;
+  src: url("./Neris/Neris-Light.otf");
+}
+
+@font-face {
+  font-family: "Norwester";
+  src: url("./Norwester/norwester.otf");
+}
