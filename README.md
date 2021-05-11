@@ -1,29 +1,27 @@
 # Bifrost Frontend
 
----
-
 A simple web application that allows interaction with a database.
 
-## General information
-
 ---
+
+## General information
 
 This application was developped as a technical test. It's purpose is to display basic use of React, HTML and CSS to interact with a backend in order to manage a supply of products.
 The application display the current supply on the home page, allow the user to modify or delete a product. Another page can be accessed to create a new product and insert it into the database.
 
 ![Site homepage][/documentation_assets/site-screenshot.png]
 
-## Technologies
-
 ---
+
+## Technologies
 
 - React
 - HTML / CSS
 - Redux
 
-## Installation
-
 ---
+
+## Installation
 
 Start by downloading the repository on your computer. This project uses yarn to manage packages. If you don't have it, enter the following:
 $ sudo npm install -g yarn
