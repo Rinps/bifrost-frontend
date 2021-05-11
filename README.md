@@ -29,7 +29,7 @@ Now, you can start installing the required packages. Go into the the application
 `yarn add react-router-dom axios redux react-redux @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome`
 
 For the application to work correctly, you need to specify the backend URL in an environment variable named REACT_APP_BACKEND_URL.
-The backend made for this project can be found on [this link][https://github.com/rinps/bifrost-backend].
+The backend made for this project can be found on [this link](https://github.com/rinps/bifrost-backend).
 
 You can test the application locally by going to the application main repertory and using the following command:
 `$ yarn start`
